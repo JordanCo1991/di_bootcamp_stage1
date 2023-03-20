@@ -1,0 +1,19 @@
+body{
+    background: steelblue;
+    font-family:'Rubik', sans-serif ;
+}
+
+
+li:first-letter {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+style{
+    text-align: center;
+}
+
+ul li {
+	text-align: center;
+	list-style-type: none;
+}
