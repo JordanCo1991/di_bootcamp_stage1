@@ -1,0 +1,38 @@
+body{
+    background: rgb(54,67,114);
+    margin: 0 30px;
+}
+
+
+#wrap{
+    display: flex;
+    flex-direction: row;
+    background: #5a7fbd;
+}
+
+#nav {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background: rgb(176,207,255);
+    min-width:max-content;
+}
+
+p { 
+text-align: center;
+}
+
+#content ul li {
+    /* text-align: center; */
+    list-style-type: none;
+}
+
+#content {
+    text-align: center;
+}
+
+.copyright {
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 2px;
+}
