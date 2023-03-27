@@ -7,7 +7,7 @@
 
 body {
 	font-family: "Poppins";
-	background-color:#F6D671;
+	background-color:RGB(250 182 36);
 	overflow-x: hidden;
 }
 
@@ -92,7 +92,7 @@ main {
 	font-size: 72px;
 	font-family: "Poppins", sans-serif;
 	margin-bottom: 0px;
-	color: #D4AF37;
+	color:#F6D671;
 }
 
 .img-caption {
@@ -216,7 +216,7 @@ h2 {
 	padding: 20px;
 	background-color: purple;
 	border-radius: 12px;
-	box-shadow: 5px 10px 14px goldenrod;
+	box-shadow: 5px 10px 14px RGB(250 182 36);
 	margin: 35px;
 }
 
